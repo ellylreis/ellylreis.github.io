@@ -1,0 +1,36 @@
+body{
+	background: grey
+}
+h1{
+	color:pink;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	margin-left:3%;
+}
+.education{
+	color:blue;
+	background: white
+}
+.work{
+	color:white;
+	background: blue;
+}
+p{
+	margin-left:10%;
+}
+ol{
+	margin-left:3%;
+}
+.education:hover{
+	font-size: 25px
+}
+.work:hover{
+	font-size: 35px
+}
+img{
+	margin-left: 20%
+}
